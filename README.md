@@ -1,5 +1,7 @@
 # Prajwal-Portfolio
+
 Welcome to my personal portfolio website! This is where I showcase my skills . Feel free to explore and learn more about me.
+### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://prajwal-r-h.github.io/Prajwal-Portfolio/)
 
 ## Project Overview
 
@@ -27,15 +29,15 @@ This website serves as a digital representation of who I am as a Web-Developer. 
 
 ## Resume
 
-You can download my resume for more details: [Download Resume].
+You can download my resume for more details: [Download Resume](./Prajwal_Resume.pdf).
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [LinkedIn Profile].
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/prajwal-r-honnihalli-7aa516280/).
 
 ## GitHub
 
-Check out my GitHub profile: [GitHub Profile].
+Check out my GitHub profile: [GitHub Profile](https://github.com/prajwal-r-h).
 
 
 ## Future Plans
